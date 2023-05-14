@@ -1,5 +1,4 @@
-# CDAC-Project
-Resume screening using NLP & and Machine Learning Algorithm 
+# CDAC-Project- Resume screening using NLP & and Machine Learning Algorithm 
 
 The project typically involves the following steps:
 
