@@ -9,7 +9,7 @@ The project typically involves the following steps:
 
     3.Feature extraction: Extract relevant features from the preprocessed resumes. This could involve techniques such as bag-of-words, TF-IDF (Term Frequency-Inverse Document Frequency), or word embeddings like Word2Vec or GloVe. These features represent the resumes in a numerical format that machine learning algorithms can process.
 
-   4.Labeling or classification: Assign labels or categories to the resumes based on specific criteria. For example, if the job requires a certain skill set or experience level, resumes can be classified into "relevant" or "not relevant" categories accordingly. This step often requires manual labeling of a subset of the data by human experts to serve as training examples for the machine learning model.
+    4. Labeling or classification: Assign labels or categories to the resumes based on specific criteria. For example, if the job requires a certain skill set or experience level, resumes can be classified into "relevant" or "not relevant" categories accordingly. This step often requires manual labeling of a subset of the data by human experts to serve as training examples for the machine learning model.
 
     5.Model training: Train a machine learning model using the labeled dataset. Common algorithms used for resume screening include logistic regression, support vector machines (SVM), random forests, or deep learning models such as convolutional neural networks (CNN) or recurrent neural networks (RNN).
 
