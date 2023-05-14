@@ -1,5 +1,6 @@
 # CDAC-Project- Resume screening using NLP & and Machine Learning Algorithm 
 
+
 The project typically involves the following steps:
 
     1.Data collection: Gather a large dataset of resumes, ideally with diverse backgrounds and job roles. This dataset will be used to train and evaluate the machine learning model.
