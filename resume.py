@@ -108,7 +108,7 @@ def remove_stopwords(resume):
 
 
 def cleaning(resume):
-    # tweet = remove_emoji(tweet)
+    # tweet = remove_emoji(resume)
     resume = decontract(resume)
     resume = preprocessing(resume)
     # tweet = lemmatizer_fn(resume)
@@ -116,7 +116,7 @@ def cleaning(resume):
     return mod_resume
 
 
-st.title(':face_with_symbols_on_mouth: Resume Screening :face_with_symbols_on_mouth:')
+st.title(' Resume Screening ')
 
 # Create an input box for the user to enter text
 st.write(" ")
